@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirCondBattle", "AirCondBat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirCondBattleTests", "AirCondBattleTests\AirCondBattleTests.csproj", "{83C1861C-58FE-4DB9-8241-5DF5424AAD7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIMountains", "ASCIIMountains\ASCIIMountains.csproj", "{28949254-C88B-4B9A-947E-22989DFAA4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIMountainsTests", "ASCIIMountainsTests\ASCIIMountainsTests.csproj", "{651B45DB-8D0D-4CA7-B30F-C4A62EF529C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{83C1861C-58FE-4DB9-8241-5DF5424AAD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C1861C-58FE-4DB9-8241-5DF5424AAD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C1861C-58FE-4DB9-8241-5DF5424AAD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28949254-C88B-4B9A-947E-22989DFAA4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28949254-C88B-4B9A-947E-22989DFAA4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28949254-C88B-4B9A-947E-22989DFAA4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28949254-C88B-4B9A-947E-22989DFAA4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651B45DB-8D0D-4CA7-B30F-C4A62EF529C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651B45DB-8D0D-4CA7-B30F-C4A62EF529C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651B45DB-8D0D-4CA7-B30F-C4A62EF529C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651B45DB-8D0D-4CA7-B30F-C4A62EF529C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
